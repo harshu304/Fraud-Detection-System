@@ -26,7 +26,7 @@ This project is designed to detect and prevent fraudulent activities using advan
 ![image](https://github.com/user-attachments/assets/c9562d34-768f-498a-95ab-e6f7c82a858e)
 
 **Power BI-**
-
+https://app.powerbi.com/view?r=eyJrIjoiMzFjMTY5ZmUtNGNlZi00NmU1LTkzYmQtNThjYzljY2MyOGUzIiwidCI6ImRiMzYzNTUzLWQwYmItNDRmYS05OWQ4LTU3Njc4MTVkOTA2ZCJ9
 ![image](https://github.com/user-attachments/assets/1127d4fd-a2bc-4467-9e62-3282fd3c89b7)
 
 
